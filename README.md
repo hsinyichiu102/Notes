@@ -1,2 +1,2 @@
 # Notes
-useful commad
+MY SMALLL NOTES
