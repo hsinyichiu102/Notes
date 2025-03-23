@@ -46,7 +46,7 @@
     
     -d為deamon樣式，container會印出log
 
- 11. 進入container
+11. 進入container
      > docker exec *-it* <container-id> */bin/bash* or *-- bash*
 
 12. using ngix to create a container
@@ -114,10 +114,11 @@
 
    用--build-arg來重新指定變數
    
-5.  __WORKDIR__: 直接將執行目錄到ENV下
+4. __WORKDIR__: 直接將執行目錄到ENV下
    > WORKDIR ${<env_name>}
 
    > WORKDIR ${workdir}
+
 5. __RUN__: 透過run來執行page image提供的指令
    > RUN apk --update add apache2
 
