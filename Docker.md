@@ -79,7 +79,7 @@
 
 4.  get the first login password on Jenkins
    > docker logs <container-id>
-   
+
    ![image](https://github.com/user-attachments/assets/0085a676-8b9e-44aa-8983-108b71e782f6)
 
 ## Dockerfile 
